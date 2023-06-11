@@ -27,7 +27,8 @@ Languages and Tools:
     </a>   
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>   
+    </a>   ]
+    
 ![](https://activity-graph.herokuapp.com/graph?username=Rohit-Pawar04&theme=react-dark&area=true)
 <!--
 **Rohit-Pawar04/Rohit-Pawar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
