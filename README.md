@@ -42,7 +42,7 @@ Languages and Tools:
     </a>  
     <a href="https://www.snaresolutions.com/wp-content/uploads/Snare_Central-Log-Management_Website-Images_Database-Activity-Monitoring-1030x900.png" target="_blank" rel="noreferrer">
         <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg](https://www.snaresolutions.com/wp-content/uploads/Snare_Central-Log-Management_Website-Images_Database-Activity-Monitoring-1030x900.png)" alt="sqlserver" width="40" height="40" />
-    </a
+    </a>
     
 ![](https://activity-graph.herokuapp.com/graph?username=Rohit-Pawar04&theme=react-dark&area=true)
 <!--
